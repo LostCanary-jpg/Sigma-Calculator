@@ -6,3 +6,16 @@ It is gonna be a low bugdet calculator that can do specific operations and call 
 For example: If you write 30+37, instead of 67 it will say "BOIII TS TO TUFF"
 
 etc etc. currently im only planning for the 6-7 meme
+
+
+## What i plan to work on:(2025-10-07)
+
+Fixing calculation order
+
+Adding a Hungarian language
+
+Adding a version code command
+
+Maybe memory
+
+and last but not least adding more operations and tidying up the if-else work
