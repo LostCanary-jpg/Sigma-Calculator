@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -27,7 +27,11 @@ namespace Sigma_calculator
                 Console.WriteLine(" Multiplication = 3");
                 Console.WriteLine(" Division = 4");
                 Console.WriteLine();
-                return;
+                Thread.Sleep(4000);
+                Console.WriteLine("Press any key to exit...(dont be tuff)");
+                Console.ReadKey();
+                Environment.Exit(0);
+
             }
             else if (operation == 1)
             {
@@ -36,31 +40,46 @@ namespace Sigma_calculator
                 if (elso == 67)
                 {
                     Console.WriteLine(" BOIIIII you playing with me");
-                    return;
+                    Thread.Sleep(3000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 Console.WriteLine("Give me the second number.");
                 double masodik = Convert.ToDouble(Console.ReadLine());
                 if (masodik == 67)
                 {
                     Console.WriteLine("BROOIIIII THOUGHT YOU COULD SAKE ME OFF");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else if (elso == 6 && masodik == 7)
                 {
                     Console.WriteLine(" BOII THOUGHT HE WAS SNEAKY!! TRY AGAIN");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 double eredmeny = elso + masodik;
                 if (eredmeny == 67)
                 {
                     Console.WriteLine("BOIIII TS SOO TUFFF!!!");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else
                 {
                     Console.WriteLine();
                     Console.WriteLine($"{eredmeny}");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
 
 
@@ -74,31 +93,46 @@ namespace Sigma_calculator
                 if (elso == 67)
                 {
                     Console.WriteLine(" BOIIIII stop fooling with me gang");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 Console.WriteLine("Give me the second number.");
                 double masodik = Convert.ToDouble(Console.ReadLine());
                 if (masodik == 67)
                 {
                     Console.WriteLine("BROOIIIIIIIIIIIIIIII stop it, get some help");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else if (elso == 6 && masodik == 7)
                 {
                     Console.WriteLine("      I need to get a life");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 double eredmeny = elso - masodik;
                 if (eredmeny == 67)
                 {
                     Console.WriteLine("BOI IS THIS TUFF?");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else
                 {
                     Console.WriteLine();
                     Console.WriteLine($"{eredmeny}");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
 
             }
@@ -110,31 +144,46 @@ namespace Sigma_calculator
                 if (elso == 67)
                 {
                     Console.WriteLine(" BOII BOIII, im gonna find you");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 Console.WriteLine("Give me the second number.");
                 double masodik = Convert.ToDouble(Console.ReadLine());
                 if (masodik == 67)
                 {
                     Console.WriteLine("this is malware");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else if (elso == 6 && masodik == 7)
                 {
                     Console.WriteLine(" BOI, i hate that im forcing myself to do this");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 double eredmeny = elso * masodik;
                 if (eredmeny == 67)
                 {
                     Console.WriteLine("TUFFFF IS THIS BOII??");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else
                 {
                     Console.WriteLine();
                     Console.WriteLine($"{eredmeny}");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
             }
 
@@ -145,35 +194,53 @@ namespace Sigma_calculator
                 if (elso == 67)
                 {
                     Console.WriteLine(" BOIIIII. no boi. lock in.");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 Console.WriteLine("Give me the second number.");
                 double masodik = Convert.ToDouble(Console.ReadLine());
                 if (masodik == 67)
                 {
                     Console.WriteLine("get back to work. without change theres no change.");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else if (elso == 6 && masodik == 7)
                 {
                     Console.WriteLine(" STAY HARD");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 double eredmeny = elso / masodik;
                 if (eredmeny == 67)
                 {
                     Console.WriteLine("its not a choice.");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else
                 {
                     Console.WriteLine();
                     Console.WriteLine($"{eredmeny}");
-                    return;
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Press any key to exit...(dont be tuff)");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
             }
 
-            return;
+            Thread.Sleep(1000);
+            Console.WriteLine("Press any key to exit...(dont be tuff)");
+            Console.ReadKey();
+            Environment.Exit(0);
         }
     }
 }
