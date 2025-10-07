@@ -10,12 +10,12 @@ etc etc. currently im only planning for the 6-7 meme
 
 ## What i plan to work on:(2025-10-07)
 
-Fixing calculation order
+Fixing calculation order   -  [not started]
 
-Adding a Hungarian language
+Adding a Hungarian language   -  [not started]
 
-Adding a version code command
+Adding a version code command   -  [not started]
 
-Maybe memory
+Maybe memory   -  [not started]
 
-and last but not least adding more operations and tidying up the if-else work
+and last but not least adding more operations and tidying up the if-else work   -  [not started]
