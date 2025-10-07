@@ -14,10 +14,10 @@ etc etc. currently im only planning for the 6-7 meme
 
 Fixing calculation order   -  [not started]
 
-Adding a Hungarian language   -  [not started]
+Adding a Hungarian language   -  [STARTED]
 
-Adding a version code command   -  [not started]
+Adding a version code command   -  [COMPLETED]
 
 Maybe memory   -  [not started]
 
-and last but not least adding more operations and tidying up the if-else work   -  [IN PROGRESS]
+and last but not least adding more operations and tidying up the if-else work   -  [NEARLY DONE]
