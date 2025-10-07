@@ -20,4 +20,4 @@ Adding a version code command   -  [not started]
 
 Maybe memory   -  [not started]
 
-and last but not least adding more operations and tidying up the if-else work   -  [not started]
+and last but not least adding more operations and tidying up the if-else work   -  [IN PROGRESS]
