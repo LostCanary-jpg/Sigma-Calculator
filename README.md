@@ -8,6 +8,8 @@ For example: If you write 30+37, instead of 67 it will say "BOIII TS TO TUFF"
 etc etc. currently im only planning for the 6-7 meme
 
 
+### Can currently do: addition, subtraction, division, multiplication 
+
 ## What i plan to work on:(2025-10-07)
 
 Fixing calculation order   -  [not started]
