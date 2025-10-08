@@ -12,9 +12,9 @@ etc etc. currently im only planning for the 6-7 meme
 
 ## What i plan to work on:(2025-10-07)
 
-Fixing calculation order   -  [not started]
+Fixing calculation order   -  [not started] [not planned yet]
 
-Adding a Hungarian language   -  [STARTED]
+Adding a Hungarian language   -  [IN PROGRESS]
 
 Adding a version code command   -  [COMPLETED]
 
