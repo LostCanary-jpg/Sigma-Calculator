@@ -12,7 +12,7 @@ namespace Sigma_calculator
 {
     internal class Program
     {
-        // Global dictionary to store the chosen language, blah blan, just to be safe and when code gets bigger
+        // Global dictionary to storee  chosen language, blah blan, just to be safe and when code gets bigger
                     static Dictionary<string, string> currentLang = new Dictionary<string, string>();
         static void Main(string[] args)
         {
@@ -448,4 +448,5 @@ namespace Sigma_calculator
         }
     }
 }
+
 
