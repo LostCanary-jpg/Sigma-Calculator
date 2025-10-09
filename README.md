@@ -10,7 +10,7 @@ etc etc. currently im only planning for the 6-7 meme
 
 ### Can currently do: addition, subtraction, division, multiplication 
 
-## What i plan to work on:(2025-10-07)
+## What to expect in update V3:(started/2025-10-07)
 
 Fixing calculation order   -  [not started] [not planned yet]
 
@@ -20,4 +20,4 @@ Adding a version code command   -  [COMPLETED]
 
 Maybe memory   -  [not started]
 
-and last but not least adding more operations and tidying up the if-else work   -  [NEARLY DONE]
+and last but not least adding more operations and tidying up the if-else work   -  [COMPLETED]
