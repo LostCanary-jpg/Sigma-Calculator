@@ -16,6 +16,8 @@ Updated from 4.7 framework to Net.8
 
 ### New language added: Hungarian.
 
+UI rework and bettew visuals.
+
 Infinite loop with crash protection and failsafe measures. With an exit function.
 
 Optimized code. Visually more pleasing look to the code.
