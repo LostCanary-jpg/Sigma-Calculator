@@ -12,25 +12,27 @@ etc etc. currently im only planning for the 6-7 meme
 
 # What to expect in the next update V4: (started/2025-10-14)
 
-maybe bettew ui [not started]
+Maybe better Cmd Ui [not started]
 
-casino-lottery [not started] 
+Lottery/Casino feature [not started] 
 
-favourite number something and encryption thingy ((not completely thinked through yet))
+favourite number something ((not completely thinked through yet))
 
-random number generator [not started]
+Random number generator [not started]
 
-maybe actual ui [not planned, probably arrives in later update]
+Number encrypter and decrypter [not started/maybe too hard for my level so might come in later updates]
+
+Possibly actual Ui/GUI [not planned, probably arrives in later update]
 
 ------------------------
 
 ### Pushed from previous planned list:
 
-fixing calculation order [may be needed]
+Fixing calculation order [may be needed]
 
-memory [maybe]
+Memory [maybe]
 
-more operations [maybe/not started]
+More operations [maybe/not started]
 
 
 
