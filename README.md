@@ -10,6 +10,31 @@ etc etc. currently im only planning for the 6-7 meme
 
 ### Can currently do: addition, subtraction, division, multiplication 
 
+# What to expect in the next update V4: (started/2025-10-14)
+
+maybe bettew ui [not started]
+
+casino-lottery [not started] 
+
+favourite number something and encryption thingy ((not completely thinked through yet))
+
+random number generator [not started]
+
+maybe actual ui [not planned, probably arrives in later update]
+
+------------------------
+
+### Pushed from previous planned list:
+
+fixing calculation order [may be needed]
+
+memory [maybe]
+
+more operations [maybe/not started]
+
+
+
+
 # New V3 Update. Whats new. (2025-10-09)
 
 Updated from 4.7 framework to Net.8 
